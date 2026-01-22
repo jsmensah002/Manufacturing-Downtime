@@ -1,6 +1,8 @@
-Project Goal: Identify the key contributors to downtime and examine how operator actions and performance contribute to downtime occurrence and duration.
+Project Goal: Identify the leading factors for downtime and examine how operators contribute to downtime occurrence and duration.
 
-Tools: Power BI, Microsoft Excel
+Tools: Power BI, Microsoft Excel. 
+
+Dataset: Available upon request.
 
 Key Insights:
 - Overall production efficiency was 59.34%.
