@@ -2,8 +2,6 @@ Project Goal: Identify the leading factors for downtime and examine how operator
 
 Tools: Power BI, Microsoft Excel. 
 
-Dataset: Available upon request.
-
 Key Insights:
 - Overall production efficiency was 59.34%.
 - Machine Adjustment was the largest contributor to downtime, totaling 332 minutes.
